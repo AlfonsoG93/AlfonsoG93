@@ -1,5 +1,8 @@
-👨‍💻 About Me: Senior Frontend Developer with 5+ years of successful software delivery experience. Expert in JavaScript, TypeScript, React, and OpenLayers. Interested in Micro Frontends, Web Performance, Component Design, and Real-time UIs. Built the React platform used across Germany with custom Google Maps/OpenLayers integration, analyzing 1.3B data points and 65M+ price entries.
-🛠️ I’ve spent the last 5 years crafting modern, data-rich frontend apps—from dynamic UIs to map-heavy dashboards for real estate analytics. I thrive in fast-moving, product-focused teams where users and performance come first.
+👨‍💻 About Me: I am a Senior Frontend Developer with 5+ years of successful software delivery experience. Expert in JavaScript, TypeScript, React, and OpenLayers. Interested in Micro Frontends, Web Performance, Component Design, and Real-time UIs. Built the React platform used across Germany with custom Google Maps/OpenLayers integration, analyzing 1.3B data points and 65M+ price entries.
+
+
+🛠️ I’ve spent the last 5 years building modern, data-rich frontend apps including dynamic UIs to map-heavy dashboards for real estate analytics. I thrive in fast-moving, product-focused teams where users and performance come first.
+
 
 🚀 My motto: “Strong foundations make fast frontends.”
 
