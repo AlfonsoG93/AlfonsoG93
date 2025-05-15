@@ -12,5 +12,3 @@
  📊 Methods: SCRUM, Agile, TDD, BDD
  
  🌐 Interests: UI/UX, Design Systems, Performance, Scalability, Type Safety, Dev Tooling
- 
- 🏋️ Outside of work, you’ll usually find me training in martial arts, lifting at the gym, or lost in a fantasy movie or strategy game.
